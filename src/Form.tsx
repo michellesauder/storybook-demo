@@ -20,7 +20,7 @@ const FormDemo = () => {
           style={{
             display: "flex",
             alignItems: "baseline",
-            justifyContent: "space-between",
+            justifyContent: "space-around",
           }}
         >
           <Form.Label className="FormLabel">Email</Form.Label>
